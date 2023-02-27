@@ -10,10 +10,10 @@ loginForm.addEventListener('submit', (event) => {
   // Check if username and password are correct (for demo purposes only)
   if (username === 'user1' && password === 'password1') {
     // Redirect to homeA page
-    window.location.href = 'homeA.html';
+    window.location.href = 'HomeA.html';
   } else if (username === 'user2' && password === 'password2') {
     // Redirect to homeB page
-    window.location.href = 'homeB.html';
+    window.location.href = 'HomeB.html';
   } else {
     // Display error message
     alert('Incorrect username or password!');
