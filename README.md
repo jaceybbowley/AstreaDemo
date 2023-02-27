@@ -1,6 +1,6 @@
 # AstreaDemo
 
-##Login Credentials 
+Login Credentials 
 
 username: user1
 password: password1
